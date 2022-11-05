@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.table1 {
+    border: 3px solid #7196f3;
+    background-color: #7196f3;
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 450px;
+    top: 100px;
+}
+
+.table2 {
+    border: 3px solid #fa7777;
+    background-color: #fa7777;
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+}
+
+.table3 {
+    border: 3px solid #f5f58b;
+    background-color: #f5f58b;
+    height: 250px;
+    width: 200px;
+    position: relative;
+    left: 1050px;
+    top: -350px;
+}
+
+.table4 {
+    border: 3px solid #83f383;
+    background-color: #83f383;
+    height: 250px;
+    width: 200px;
+    position: relative;
+    left: 1000px;
+    top: -200px;
+}
+
+.table5 {
+    border: 2px solid #886464;
+    background-color: #886464;
+    height: 250px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+    top: -600px;
+}
+
+.ben {
+    width: 40px;
+    position: relative;
+    top: 70px;
+}
+
+.jm {
+    width: 40px;
+    position: relative;
+    top: 70px;
+    left: 200px;
+}
+
+.lilian {
+    width: 40px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+.damien {
+    width: 40px;
+    position: relative;
+    top: 120px;
+    left: 100px;
+}
+
+.vincent {
+    width: 40px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.coco {
+    width: 40px;
+    position: relative;
+    top: 60px;
+    left: 200px;
+}
+
+
+.jordan {
+    width: 40px;
+    position: relative;
+    top: 170px;
+    left: 90px;
+}
+
+.vico {
+    width: 60px;
+    position: relative;
+    top: 10px;
+    left: 80px;
+}
+
+.remy {
+    width: 40px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+
+.matheo {
+    width: 40px;
+    position: relative;
+    top: 100px;
+    left: 130px;
+}
+
+
+.jerome {
+    width: 40px;
+    position: relative;
+    top: 100px;
+    left: 130px;
+}
